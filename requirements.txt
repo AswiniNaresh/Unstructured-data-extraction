@@ -1,0 +1,6 @@
+flask
+python-docx
+pydantic
+python-dotenv
+langchain
+langchain-groq
